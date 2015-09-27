@@ -1,0 +1,18 @@
+#Setting file url and setting the working directory
+fileURL = Contains URL for the Data Download
+testlabel = Test Labels from y_test-txt
+testsubject = Test Subjects from subject_test.txt
+testdata = Test Data from X_test.txt
+completetestdata = All test data including Subjects, Labels and Data
+trainlabel = Train Labels from y_test-txt
+trainsubject = Train Subjects from subject_test.txt
+traindata = Train Data from X_test.txt
+completetraindata = All train data including Subjects, Labels and Data
+oneDataSet = Entire Training and Test Data
+features = Features from features.txt
+meanstdfeatures = Subset of only Mean and Standard Deviation
+meanstdData = Data after extracting Mean and Standard Deviation
+activitylabels = The Activity Labels from activity_labels.txt
+labeledData = Merged Data
+columnNames = Remove non-alpha symbols
+subjectlabelData = Data aggregated by Mean for Subject and Label
